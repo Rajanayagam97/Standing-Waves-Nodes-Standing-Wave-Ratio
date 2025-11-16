@@ -1,5 +1,5 @@
 # Standing Waves, Nodes & Standing Wave Ratio (SWR/VSWR)
-New Application Domain: Microwave Ovens & Industrial Food Processing Systems
+#  Microwave Ovens & Industrial Food Processing Systems
 
 # 1. Introduction
 
@@ -132,17 +132,21 @@ Heating becomes more uniform toward the end.
 
 <img width="932" height="353" alt="image" src="https://github.com/user-attachments/assets/bca898f5-28d7-47e0-b0f8-703d477ae1f2" />
 
+<img width="800" height="433" alt="image" src="https://github.com/user-attachments/assets/fec81c66-7638-45d0-9051-cac306a565a8" />
+
+
+
 
 # Conclusion
 
 Standing waves, nodes, and VSWR aren’t just abstract RF concepts—they directly affect the quality, safety, and efficiency of microwave heating systems. By controlling these parameters in waveguides and cavity applicators, engineers create:
 
-More uniform heating
+1. More uniform heating
 
-Lower energy waste
+2. Lower energy waste
 
-Protection for the magnetron/generator
+3. Protection for the magnetron/generator
 
-Reliable industrial-scale food processing
+4. Reliable industrial-scale food processing
 
 Every time your meal heats evenly or an industrial line cooks thousands of items per hour, it’s thanks to understanding standing waves, node patterns, and SWR.
